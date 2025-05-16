@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C#\\HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\drugstores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\drugstores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\controllers\\drugstorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\controllers\\drugstorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\models\\hmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\models\\hmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|g:\\c#\\hms\\hms\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6274BA-876B-49C1-B82D-5D708E9AF82D}|HMS\\HMS.csproj|solutionrelative:hms\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Staffs\\Index.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Staffs\\Index.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Staffs\\Index.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Staffs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:02:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:52:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:41:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HMS\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HMS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:02:58.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:13:17.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\DrugStores\\Index.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\DrugStores\\Index.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\DrugStores\\Index.cshtml",
+              "RelativeToolTip": "HMS\\Views\\DrugStores\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:19:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:29:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DrugStoresController.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Controllers\\DrugStoresController.cs",
+              "RelativeDocumentMoniker": "HMS\\Controllers\\DrugStoresController.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Controllers\\DrugStoresController.cs",
+              "RelativeToolTip": "HMS\\Controllers\\DrugStoresController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwIMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:02:31.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:23:51.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Program.cs",
+              "RelativeDocumentMoniker": "HMS\\Program.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Program.cs",
+              "RelativeToolTip": "HMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:08:40.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\appsettings.json",
+              "RelativeDocumentMoniker": "HMS\\appsettings.json",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\appsettings.json",
+              "RelativeToolTip": "HMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T17:08:43.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HMS\\Controllers\\DoctorsController.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HMS\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:10:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:17:34.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HmsContext.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Models\\HmsContext.cs",
+              "RelativeDocumentMoniker": "HMS\\Models\\HmsContext.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Models\\HmsContext.cs",
+              "RelativeToolTip": "HMS\\Models\\HmsContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:09:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "HMS\\Controllers\\StaffsController.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "HMS\\Controllers\\StaffsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:32:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "G:\\C#\\HMS\\HMS\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HMS\\Controllers\\PatientsController.cs",
+              "ToolTip": "G:\\C#\\HMS\\HMS\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HMS\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwIMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:24:55.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

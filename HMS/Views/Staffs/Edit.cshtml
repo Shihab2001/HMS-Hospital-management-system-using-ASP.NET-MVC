@@ -1,0 +1,66 @@
+﻿@model HMS.Models.Staff
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Staff</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label"></label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DutyOn" class="control-label"></label>
+                <input asp-for="DutyOn" class="form-control" />
+                <span asp-validation-for="DutyOn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DutyOff" class="control-label"></label>
+                <input asp-for="DutyOff" class="form-control" />
+                <span asp-validation-for="DutyOff" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DutyPlace" class="control-label"></label>
+                <input asp-for="DutyPlace" class="form-control" />
+                <span asp-validation-for="DutyPlace" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DutyStatus" class="control-label"></label>
+                <input asp-for="DutyStatus" class="form-control" />
+                <span asp-validation-for="DutyStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post" class="control-label"></label>
+                <input asp-for="Post" class="form-control" />
+                <span asp-validation-for="Post" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
